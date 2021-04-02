@@ -2,7 +2,7 @@
 
 ### <p align="center"> Welcome on my GitHub Page. I am a female Web Developer, freelance online editor and an MBA student in digital and media managment based in Hamburg.</p>
 
-#### I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I love with game development 🎮 I created **my own little game [Spracey](https://github.com/JoscaWij/Spacey)** in just one month from scratch and with vanilla Javascript.
+#### I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I love with game development 🎮 I created **my own little game [Spacey](https://github.com/JoscaWij/Spacey)** in just one month from scratch and with vanilla Javascript.
 
 ---
 
@@ -48,7 +48,7 @@
 
 🎮 In my sparetime I love gaming - especially RPGs with a good and engaging story.
 
-👨‍🚀 So it shouldn't be a surprise that I am working on my own game called [Spracey - A vanilla JS adventure in space]()
+👨‍🚀 So it shouldn't be a surprise that I am working on my own game called Spacey
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joscawij&repo=Spacey)](https://github.com/JoscaWij/Spacey)
 
