@@ -1,8 +1,8 @@
 ## <p align="center"> Hi there 👋 my name is Josca. </p>
 
-### <p align="center"> Welcome on my GitHub Page. I am a female Web Developer, freelance online editor and an MBA student in digital and media managment based in Hamburg.</p>
+Welcome on my GitHub Page. I am a female Web Developer, freelance online editor and an MBA student in digital and media managment based in Hamburg.
 
-#### I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I love with game development 🎮 I created **my own little game [Spacey](https://github.com/JoscaWij/Spacey)** in just one month from scratch and with vanilla Javascript.
+I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I love with game development 🎮 I created **my own little game [Spacey](https://github.com/JoscaWij/Spacey)** in just one month from scratch and with vanilla Javascript.
 
 ---
 
@@ -42,7 +42,7 @@
 
 👩‍💻 I started programming in 2020 and love it. In this [article](https://www.neuefische.de/magazin/josca-angelt-sich-als-erste-studentin-der-hamburg-media-school-das-neuefische-codingbootcamp-stipendium) you can read all about my experience at the neue fische bootcamp.
 
-👩‍🎓 In 2021 I will major in digital and media managment with the fokus von data analysis and social media marketing.
+👩‍🎓 In 2021 I will major in digital and media managment with the focus von data analysis and social media marketing.
 
 ✨ I love to express my creativity in coding creative projects or writing.
 
