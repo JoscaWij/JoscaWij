@@ -33,8 +33,7 @@ I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I
 
 ### _My Stats_
 
-[![JoscaWij's github stats](https://github-readme-stats.vercel.app/api?username=joscawij&include_all_commits=true&count_private=true&bg_color=e3e3e3&hide_border=ture&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=joscawij&theme=graywhite&show_icons=true&bg_color=e3e3e3&hide_border=true&layout=compact)](https://github-readme-stats-two-silk.vercel.app)
+[![JoscaWij's GitHub stats](https://github-stats-extended.vercel.app/api?username=joscawij)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
@@ -49,8 +48,6 @@ I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I
 🎮 In my sparetime I love gaming - especially RPGs with a good and engaging story.
 
 👨‍🚀 So it shouldn't be a surprise that I am working on my own game called Spacey
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joscawij&repo=Spacey)](https://github.com/JoscaWij/Spacey)
 
 ---
 
