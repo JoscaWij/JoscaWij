@@ -1,6 +1,6 @@
 ## <p align="center"> Hi there 👋 my name is Josca. </p>
 
-Welcome on my GitHub Page. I am a female Web Developer, freelance online editor and an MBA student in digital and media managment based in Hamburg.
+Welcome on my GitHub Page. I am a female Web Developer, freelance online editor and former MBA student in digital and media managment based in Hamburg. At the moment I am working for a publishing company in the CRM department.
 
 I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I love with game development 🎮 I created **my own little game [Spacey](https://github.com/JoscaWij/Spacey)** in just one month from scratch and with vanilla Javascript.
 
