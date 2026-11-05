@@ -26,7 +26,6 @@ I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -48,6 +47,7 @@ I learned to code at the **neue fische bootcamp** 🐠 in summer 2020 and fell I
 🎮 In my sparetime I love gaming - especially RPGs with a good and engaging story.
 
 👨‍🚀 So it shouldn't be a surprise that I am working on my own game called Spacey
+
 
 ---
 
